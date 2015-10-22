@@ -15,3 +15,6 @@ johnny-five練習用のリポジトリ
 
 # 動作方法
 * make repl
+
+# 参考
+* 清は[こちら](http://qiita.com/masato/items/6c3d82f862feecdcf069)を参考にしました。
